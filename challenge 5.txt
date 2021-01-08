@@ -1,0 +1,9 @@
+//take string input 
+string str;
+cin>>str;
+//at every '<' make new array and split the array into two
+for output run a loop to compare all array
+for same array display;
+for diffrent array display and increase the space(space is also increese with a loop) before the output;
+for every same array reduce the space;
+ 
