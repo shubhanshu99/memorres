@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int counter = 20;
+    int counter = 60;
 	int i;
 	cout<<"enter time: ";
 	cin >>i ;
@@ -25,7 +25,7 @@ int main()
 	}
 	else if(counter==0){
 	cout<<"\rTime remaining: "<<i-1<<"min"<<" remaining"<<flush;
-    	counter=20;
+    	counter=60;
     	i--;
 		
 	}  
