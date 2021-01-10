@@ -1,3 +1,3 @@
-its in new branch and now i am add 
+creating conflicts. 
 new things to revise resolving conflicts.
 new changes.
