@@ -1,0 +1,2 @@
+it is untracted initially
+now its in staging area and i and ready to cmmite.
