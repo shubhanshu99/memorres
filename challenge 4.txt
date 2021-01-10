@@ -1,0 +1,9 @@
+take string input
+breake string for every space and special char.
+run a loop which will break string into words.
+compare first and last char with the word.
+if statement to check and replace the word.
+second loop end
+store the word into a temp array with space after that.
+first loop end.
+display the new array.
